@@ -1,5 +1,5 @@
 第三部分
 
-![image](../Images/frontdot.jpg)
+![image](img/frontdot.jpg)
 
 解决常见和抽象的问题

@@ -1,5 +1,5 @@
 第一部分
 
-![image](../Images/frontdot.jpg)
+![image](img/frontdot.jpg)
 
 入门指南

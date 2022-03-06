@@ -1,5 +1,5 @@
 第二部分
 
-![image](../Images/frontdot.jpg)
+![image](img/frontdot.jpg)
 
 深度 API 参考
