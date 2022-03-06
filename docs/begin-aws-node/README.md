@@ -1,4 +1,4 @@
-# AWS Node 入门指南
+# AWS NodeJS 入门指南
 
 > 原文：[Beginning Amazon Web Services With Node.js](https://zh.book4you.org/book/11702451/b07c59)
 > 

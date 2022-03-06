@@ -1,4 +1,4 @@
-+   [Node 入门指南](README.md)
++   [NodeJS 入门指南](README.md)
 +   [零、简介](00.md)
 +   [一、设置 Node.js 开发环境](01.md)
 +   [二、了解 Node.js](02.md)
