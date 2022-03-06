@@ -1,3 +1,4 @@
++   [NodeJS REST API 开发高级教程](README.md)
 +   [一、REST 101](1.md)
 +   [二、API 设计最佳实践](2.md)
 +   [三、Node.js 和 REST](3.md)
@@ -6,4 +7,3 @@
 +   [六、规划您的 REST API](6.md)
 +   [七、开发您的 REST API](7.md)
 +   [八、故障排除](8.md)
-+   [NodeJS REST API 开发高级教程](README.md)
